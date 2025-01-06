@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adula Raju Goud
-- 🌱 I’m currently a third-year Computer Science student at Keshav Memorial Engineering College, affiliated with Osmania University.
+- 🌱 I’m currently a final-year Computer Science student at Keshav Memorial Engineering College, affiliated with Osmania University.
 -  I'm passionate about software development and algorithms, aiming to excel in competitive exams and contribute to innovative projects.
 
 
